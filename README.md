@@ -1,1 +1,1 @@
-# .github
+# QTCG Github
