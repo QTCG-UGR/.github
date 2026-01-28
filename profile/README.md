@@ -11,8 +11,8 @@ This GitHub organization hosts the source code developed by the group, including
 All repositories maintained by the group are **listed below**.
 
 
-Please refer to the individual repository READMEs for detailed descriptions, usage instructions, and licensing information.
+Please refer to the individual repository READMEs for detailed descriptions and usage instructions.
 
 ## Contact
 
-For more information about the group, ongoing research, and publications, please visit our website.
+For more information about the group please visit our website.
